@@ -8,6 +8,8 @@
 *.gz
 *.lof
 *.lot
+*.dvi
+*.swp
 
 #include figure files
 !Fig*.pdf
