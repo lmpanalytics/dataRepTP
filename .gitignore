@@ -1,0 +1,16 @@
+#exclude generated files
+*.pdf
+*.aux
+*.log
+*.idx
+*.toc
+*.out
+*.gz
+*.lof
+*.lot
+
+#include figure files
+!Fig*.pdf
+
+#some excluded directories
+/extra
